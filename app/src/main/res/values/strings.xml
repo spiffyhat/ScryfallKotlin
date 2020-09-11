@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="test">test</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="api_test">API Test</string>
+</resources>
